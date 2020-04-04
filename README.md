@@ -1,7 +1,6 @@
 # Codacy Coverage Reporter
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c4325290107e4d99a9b4f4cda0536cb7)](https://www.codacy.com/gh/codacy/codacy-coverage-reporter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=codacy/codacy-coverage-reporter&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/c4325290107e4d99a9b4f4cda0536cb7)](https://www.codacy.com/gh/codacy/codacy-coverage-reporter?utm_source=github.com&utm_medium=referral&utm_content=codacy/codacy-coverage-reporter&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ba1fd87557a4581978eb62a6c852c2b)](https://www.codacy.com/manual/krukmat/corona-salesforce?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krukmat/corona-salesforce&amp;utm_campaign=Badge_Grade)
 
 # Salesforce App
 
