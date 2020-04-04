@@ -1,0 +1,14 @@
+name: codacy-coverage-reporter
+
+on: ["push"]
+
+jobs:
+  codacy-coverage-reporter:
+    runs-on: ubuntu-latest
+    name: codacy-coverage-reporter
+    steps:
+      - uses: actions/checkout@master
+      - name: Run codacy-coverage-reporter
+        uses: mrfyda/codacy-coverage-reporter-action@master
+        with:
+          project-token:'c4325290107e4d99a9b4f4cda0536cb7'
